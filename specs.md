@@ -1,2 +1,2 @@
 ### Specs for geeks
-[Sample Text]
+Sample Text
