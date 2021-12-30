@@ -1,1 +1,3 @@
 ### Wiscoin
+# Cryptocurrency for Wisconsin
+
