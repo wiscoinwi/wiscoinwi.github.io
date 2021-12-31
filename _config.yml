@@ -8,12 +8,12 @@ author: Wiscoin Development Team
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  Stats: "stats"
+#navbar-links:
+#  About Me: "aboutme"
+#  Resources:
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
+#  Stats: "stats"
 
 # --- Logo --- #
 
