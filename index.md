@@ -1,4 +1,4 @@
 
-title: WiscoinWI
+text sample
 ### Cryptocurrency for Wisconsin
 Coming Soon!
